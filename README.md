@@ -10,6 +10,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION:
+
 Task 2: Data Analysis with Complex Queries
 In this task, we performed advanced data analysis using complex SQL queries involving multiple tables, subqueries, Common Table Expressions (CTEs), and window functions. The objective was to extract meaningful insights from movie data by identifying the top-rated movies per genre along with their respective directors.
 
