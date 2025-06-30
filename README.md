@@ -8,7 +8,8 @@ DOMAIN: SQL
 
 DURATION: 4 WEEKS
 
-MENTOR: NEELA SANTHOSH KUMA
+MENTOR: NEELA SANTHOSH KUMAR
+
 Task 2: Data Analysis with Complex Queries
 In this task, we performed advanced data analysis using complex SQL queries involving multiple tables, subqueries, Common Table Expressions (CTEs), and window functions. The objective was to extract meaningful insights from movie data by identifying the top-rated movies per genre along with their respective directors.
 
@@ -23,5 +24,7 @@ Finally, the outer query selects only the top 2 movies per genre (i.e., where ge
 This task effectively demonstrates the use of window functions, multi-table joins, and hierarchical query structuring via CTEs. It replicates real-world scenarios where data from multiple sources needs to be merged, aggregated, ranked, and filtered for analytical reporting. The final output serves as a compact and informative dashboard showing top-rated films by genre and their creators.
 
 #Output
+
+![Image](https://github.com/user-attachments/assets/f5b3f745-7553-4e64-87be-2c0f3de76f71)
 
 
