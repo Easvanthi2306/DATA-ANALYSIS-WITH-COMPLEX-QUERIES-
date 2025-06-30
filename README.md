@@ -1,6 +1,5 @@
 # DATA-ANALYSIS-WITH-COMPLEX-QUERIES-
-USE WINDOW FUNCTIONS,SUBQUERIES, AND CTES (COMMONTABLE EXPRESSIONS) FOR ADVANCED DATA ANALYSIS.
-DELIVERABLE: A REPORT GENERATED USING SQL QUERIES SHOWCASING TRENDS OR PATTERNS.
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: EASVANTHI S
 
@@ -10,6 +9,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH KUMAR
 
+DESCRIPTION:
 Task 2: Data Analysis with Complex Queries
 In this task, we performed advanced data analysis using complex SQL queries involving multiple tables, subqueries, Common Table Expressions (CTEs), and window functions. The objective was to extract meaningful insights from movie data by identifying the top-rated movies per genre along with their respective directors.
 
